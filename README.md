@@ -21,6 +21,6 @@ SO THAT our own site is optimized for search engines
 ## 
 
 ## WEBSITE SCREENSHOT
-![APP SCREENSHOT](./Develop/assets/images/Horiseon%20Website.png)
+![APP SCREENSHOT](./assets/images/Horiseon%20Website.png)
 
 ## DEPLOYED URL
