@@ -18,9 +18,9 @@ SO THAT our own site is optimized for search engines
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
 
-## 
+## WEBSITE LINK
+https://akash301994.github.io/Challenge-1/
 
 ## WEBSITE SCREENSHOT
 ![APP SCREENSHOT](./assets/images/Horiseon%20Website.png)
 
-## DEPLOYED URL
